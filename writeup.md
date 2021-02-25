@@ -29,13 +29,9 @@ length of each line. Thus we gain a single solid line with a sum slope and a cen
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
+One potential shortcoming would be what would happen when it comes to the challenge.mp4. When the car comes to a bend, both the lane lines will be a large curve. At this 
+time, we can not easily draw the solid line with a linear equation, the output of challenge can be very unstable.
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+A possible improvement would be to use a higher-degree function for fitting instead of a linear one. 
